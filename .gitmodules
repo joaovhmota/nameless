@@ -1,0 +1,6 @@
+[submodule "nameless-ai"]
+	path = nameless-ai
+	url = https://github.com/joaovhmota/nameless-ai.git
+[submodule "nameless-central"]
+	path = nameless-central
+	url = https://github.com/joaovhmota/nameless-central.git
